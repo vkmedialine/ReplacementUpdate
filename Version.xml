@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <item>
-  <version>2.20.08.35</version>
+  <version>2.20.8.35</version>
   <!-- <url>https://vkmedialine.github.io/ReplacementUpdate/Replacement.zip</url> -->
   <url>https://github.com/vkmedialine/ReplacementUpdate/releases/download/2.20.08.35/Replacement.zip</url>
   <changelog>https://vkmedialine.github.io/ReplacementUpdate/replacement.html</changelog>
   <mandatory>true</mandatory>
 </item>
+
 
 
 
